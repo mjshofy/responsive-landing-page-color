@@ -6,3 +6,5 @@ Step-by-step process of how to create an amazing responsive landing page. After 
 
 Thanks,
 [codermj](https://www.youtube.com/c/codermj)
+
+![preview](https://user-images.githubusercontent.com/76812554/111668578-182fc380-8840-11eb-81ce-cde0b5f8899e.jpg)
